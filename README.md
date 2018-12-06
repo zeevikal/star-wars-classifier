@@ -1,5 +1,5 @@
 # star-wars-classifier
-Darth Vader and Yoda classifier with TensorFlow
+Darth Vader and Yoda classifier with TensorFlow [retrain example](https://www.tensorflow.org/hub/tutorials/image_retraining)
 
 ## Training & Prediction process:
 
